@@ -1,1 +1,1 @@
-# son paginas para caceres
+# son paginas para caceres(aveces)
