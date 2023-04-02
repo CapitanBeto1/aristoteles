@@ -1,0 +1,72 @@
+html{
+    height: 100%;
+}
+
+.container .tele {
+    position: fixed;
+    top: 0;
+    left: 25%;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .container {
+    max-width: 31.25%; /* equivalente a 310px */
+    height: 200vh;
+    margin: 1.28% auto;
+    padding: 0.16%;
+    margin-left: 35.71%;
+    margin-right: 42.29%;
+    margin-top: 13.14%;
+    position: relative;
+    z-index: -1;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .container p,
+  .container h1 {
+    color: white;
+  }
+  
+  .container .margIzq {
+    position: fixed;
+    top: 0;
+    left: 0%;
+    width: 25%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .container .margDer {
+    position: fixed;
+    top: 0;
+    left: 75%;
+    width: 25%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .container .statica {
+    position: fixed;
+    top: 0;
+    left: 25%;
+    width: 50%;
+    height: 70%;
+    overflow: hidden;
+    z-index: -3;
+    opacity: 0.99;
+  }
+  
+  .container .freddy {
+    position: relative;
+    left: 15.48%;
+    height: 16.95%;
+  }
+  
+  .container .copy {
+    position: relative;
+    left: 3.23%;
+    color: rgb(233, 233, 233);
+    font-size: small;
+  }
